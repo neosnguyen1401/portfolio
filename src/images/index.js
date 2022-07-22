@@ -1,0 +1,16 @@
+export const projectImages = [
+    require('./project1.png'),
+    require('./project2.png'),
+    require('./project3.png'),
+    require('./project4.png'),
+    require('./project5.png'),
+    require('./project6.png'),
+    require('./project7.png'),
+    require('./project8.png'),
+    require('./project9.png'),
+    require('./project10.png'),
+    require('./project11.png'),
+    require('./project12.png'),
+    require('./project13.png'),
+    require('./project14.png'),
+]
