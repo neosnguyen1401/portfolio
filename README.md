@@ -12,4 +12,4 @@ SASS, Responsive Web Design, animate.css, pacman loaders
 
 ## Demo
 
-Link Demo: 
+Link Demo: https://neos-portfolio.netlify.app/
