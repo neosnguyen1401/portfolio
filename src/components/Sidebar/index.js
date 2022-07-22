@@ -30,7 +30,7 @@ const Sidebar = () => {
                 <FaPaperPlane className='icon' />
             </NavLink>
 
-            <a href='https://github.com/' target='_blank' rel='noreferrer' className='resume-link'>
+            <a href='https://drive.google.com/drive/folders/1YwqYsH6KYlmRx-afP5NpM6fUkNXGx5WI?usp=sharing' target='_blank' rel='noreferrer' className='resume-link'>
                 <BsFillFilePdfFill className='resume-icon' />
             </a>
         </nav>
